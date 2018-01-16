@@ -1,0 +1,2 @@
+MagicEightBall
+MagicBall
